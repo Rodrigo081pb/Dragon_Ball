@@ -15,6 +15,8 @@ a seleção dele
 a seleção dele
 // */
 
+// Objetivos : 
+
 // OBJETIVO 1 - quando clicar no botão do personagem na lista, marcar o botao como selecionado
 // passo 1 - pegar os botões no JS pra poder verificar quando o usuário clicar em cima de um deles
 // OBJETIVO 1 - quando clicar no botão do personagem na lista, marcar o botão como selecionado
